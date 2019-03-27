@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomButton.qml</file>
+        <file>Riparazioni.qml</file>
+        <file>Magazzino.qml</file>
+        <file>AndroidDelegate.qml</file>
+        <file>CustomTextEdit.qml</file>
+        <file>main2.qml</file>
+    </qresource>
+</RCC>
